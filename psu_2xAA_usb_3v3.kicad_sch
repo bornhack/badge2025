@@ -2471,6 +2471,15 @@
 				)
 			)
 		)
+		(property "LCSC" "C8549"
+			(at 168.91 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "803f3493-6a9d-4e25-89d1-414fd605968b")
 		)
@@ -2741,6 +2750,15 @@
 				)
 			)
 		)
+		(property "LCSC" "C8548"
+			(at 168.91 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c34a1402-10d4-4084-9d3a-1fdde838192b")
 		)
@@ -2776,7 +2794,7 @@
 				)
 			)
 		)
-		(property "Value" "POWER"
+		(property "Value" "MK-12C02-G015"
 			(at 82.55 90.3224 0)
 			(effects
 				(font
@@ -2793,7 +2811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2111021330_G-Switch-MK-12C02-G015_C2911519.pdf"
 			(at 82.55 95.25 0)
 			(effects
 				(font
@@ -2808,6 +2826,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" "C2911519"
+			(at 82.55 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3043,7 +3070,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "BH-AA-A1AJ020"
 			(at 57.15 104.6479 0)
 			(effects
 				(font
@@ -3061,7 +3088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2411271911_MYOUNG-BH-AA-A1AJ020_C5290181.pdf"
 			(at 53.34 103.886 90)
 			(effects
 				(font
@@ -3076,6 +3103,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" "C5290181"
+			(at 53.34 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3112,7 +3148,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "BH-AA-A1AJ020"
 			(at 57.15 118.6179 0)
 			(effects
 				(font
@@ -3130,7 +3166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2411271911_MYOUNG-BH-AA-A1AJ020_C5290181.pdf"
 			(at 53.34 117.856 90)
 			(effects
 				(font
@@ -3145,6 +3181,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" "C5290181"
+			(at 53.34 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3213,6 +3258,15 @@
 				)
 			)
 		)
+		(property "LCSC" "C219038"
+			(at 121.92 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa37b4d0-c8ee-4637-ad36-efcccbefa5c2")
 		)
@@ -3248,7 +3302,7 @@
 				)
 			)
 		)
-		(property "Value" "HX9193-33GB"
+		(property "Value" "XC6210B332MR"
 			(at 86.36 46.9646 0)
 			(effects
 				(font
@@ -3265,7 +3319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1811131153_HX-hengjiaxing-HX9193-33GB_C296123.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2409302230_TECH-PUBLIC-XC6210B332MR_C3021084.pdf"
 			(at 86.36 50.8 0)
 			(effects
 				(font
@@ -3280,6 +3334,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" "C3021084"
+			(at 86.36 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"

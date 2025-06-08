@@ -599,7 +599,7 @@
 				)
 			)
 		)
-		(property "Value" "WS2812B-2020"
+		(property "Value" "WS2812B-4020"
 			(at 116.84 73.6914 0)
 			(effects
 				(font
@@ -628,6 +628,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller, 2.0 x 2.0 mm, 12 mA"
+			(at 102.87 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C965557"
 			(at 102.87 77.47 0)
 			(effects
 				(font
@@ -962,7 +971,7 @@
 				)
 			)
 		)
-		(property "Value" "WS2812B-2020"
+		(property "Value" "WS2812B-4020"
 			(at 175.26 73.6914 0)
 			(effects
 				(font
@@ -991,6 +1000,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller, 2.0 x 2.0 mm, 12 mA"
+			(at 161.29 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C965557"
 			(at 161.29 77.47 0)
 			(effects
 				(font
@@ -1181,7 +1199,7 @@
 				)
 			)
 		)
-		(property "Value" "WS2812B-2020"
+		(property "Value" "WS2812B-4020"
 			(at 233.68 73.6914 0)
 			(effects
 				(font
@@ -1210,6 +1228,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller, 2.0 x 2.0 mm, 12 mA"
+			(at 219.71 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C965557"
 			(at 219.71 77.47 0)
 			(effects
 				(font
@@ -1530,7 +1557,7 @@
 				)
 			)
 		)
-		(property "Value" "WS2812B-2020"
+		(property "Value" "WS2812B-4020"
 			(at 204.47 73.6914 0)
 			(effects
 				(font
@@ -1559,6 +1586,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller, 2.0 x 2.0 mm, 12 mA"
+			(at 190.5 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C965557"
 			(at 190.5 77.47 0)
 			(effects
 				(font
@@ -1612,7 +1648,7 @@
 				)
 			)
 		)
-		(property "Value" "WS2812B-2020"
+		(property "Value" "WS2812B-4020"
 			(at 146.05 73.6914 0)
 			(effects
 				(font
@@ -1641,6 +1677,15 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller, 2.0 x 2.0 mm, 12 mA"
+			(at 132.08 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C965557"
 			(at 132.08 77.47 0)
 			(effects
 				(font

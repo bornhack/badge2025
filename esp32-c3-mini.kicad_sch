@@ -2659,6 +2659,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Qwiic"
+		(exclude_from_sim no)
+		(at 118.364 153.924 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b5df2815-048d-4dbe-9315-1c0ece4bcf8c")
+	)
 	(junction
 		(at 232.41 93.98)
 		(diameter 0)
@@ -3915,7 +3925,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0_16P"
+		(property "Value" "TYPE-C16PIN"
 			(at 41.91 49.53 0)
 			(effects
 				(font
@@ -3932,7 +3942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1912111437_SHOU-HAN-TYPE-C16PIN_C393939.pdf"
 			(at 45.72 69.85 0)
 			(effects
 				(font
@@ -3942,6 +3952,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 41.91 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C393939"
 			(at 41.91 69.85 0)
 			(effects
 				(font
@@ -4468,7 +4487,7 @@
 				)
 			)
 		)
-		(property "Value" "RESET"
+		(property "Value" "TS5220A"
 			(at 118.11 45.72 0)
 			(effects
 				(font
@@ -4485,7 +4504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2409272203_SHOU-HAN-TS5220A_C412370.pdf"
 			(at 118.11 45.72 0)
 			(effects
 				(font
@@ -4495,6 +4514,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 118.11 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C412370"
 			(at 118.11 50.8 0)
 			(effects
 				(font
@@ -4762,7 +4790,7 @@
 				)
 			)
 		)
-		(property "Value" "SELECT"
+		(property "Value" "TS5220A"
 			(at 264.16 88.9 0)
 			(effects
 				(font
@@ -4779,7 +4807,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2409272203_SHOU-HAN-TS5220A_C412370.pdf"
 			(at 264.16 88.9 0)
 			(effects
 				(font
@@ -4789,6 +4817,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 264.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C412370"
 			(at 264.16 93.98 0)
 			(effects
 				(font
@@ -5717,7 +5754,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Qwiic"
+		(property "Value" "1.0T-4P"
 			(at 121.285 165.7349 0)
 			(effects
 				(font
@@ -5735,7 +5772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_BOOMELE-Boom-Precision-Elec-1-0T-4P_C145956.pdf"
 			(at 123.19 165.1 0)
 			(effects
 				(font
@@ -5744,7 +5781,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1x4P 4P SH 4 1 1mm Surface Mount SMD,P=1mm"
+			(at 123.19 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C145956"
 			(at 123.19 165.1 0)
 			(effects
 				(font

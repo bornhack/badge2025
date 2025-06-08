@@ -1309,7 +1309,7 @@
 		(at 119.38 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -1391,7 +1391,7 @@
 				)
 			)
 		)
-		(property "Value" "Wio-SX1262"
+		(property "Value" "Wio-SX1262 / 113991436"
 			(at 85.09 68.58 0)
 			(effects
 				(font
@@ -1409,7 +1409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://files.seeedstudio.com/products/SenseCAP/Wio_SX1262/Wio-SX1262_Module_Datasheet.pdf"
 			(at 85.09 80.01 0)
 			(effects
 				(font
@@ -1427,7 +1427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SenseCAP"
+		(property "Manufacturer" "seeed studio"
 			(at 85.09 91.44 0)
 			(effects
 				(font
@@ -1552,7 +1552,7 @@
 		(at 132.08 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -1820,7 +1820,7 @@
 		(at 106.68 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)

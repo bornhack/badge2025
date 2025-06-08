@@ -68,6 +68,10 @@
           ""
         ],
         [
+          "shorting_items|126355709|74644291|c03c2e54-7d4d-4541-bfdf-b0e5f95c12d3|cb2a42f9-f4ba-4ba3-aef3-77a93245ac31",
+          "Part of antenna connection"
+        ],
+        [
           "solder_mask_bridge|126853732|74647339|c03c2e54-7d4d-4541-bfdf-b0e5f95c12d3|2c7a7f68-7e11-4601-becd-67cd77a8875c",
           ""
         ],
@@ -530,9 +534,9 @@
       "idf": "",
       "netlist": "",
       "plot": "GERBER/",
-      "pos_files": "",
+      "pos_files": "ASSEMBLY/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "circle-badge.stl",
       "svg": "",
       "vrml": ""
     },
