@@ -10681,6 +10681,54 @@
 		(sheetname "/esp31-c3-mini/")
 		(sheetfile "esp32-c3-mini.kicad_sch")
 		(attr smd)
+		(fp_poly
+			(pts
+				(xy 3.19 4.235) (xy 3.21 4.235) (xy 3.21 3.105) (xy 3.19 3.105)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "5b723ba0-7412-486f-b6c1-8bf0053b278e")
+		)
+		(fp_poly
+			(pts
+				(xy 2.39 4.235) (xy 2.41 4.235) (xy 2.41 3.105) (xy 2.39 3.105)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "234dc9b2-e131-444a-a881-16e116f43a67")
+		)
+		(fp_poly
+			(pts
+				(xy -2.41 4.235) (xy -2.39 4.235) (xy -2.39 3.105) (xy -2.41 3.105)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "d83e1080-8ff0-43c4-b484-8bdf383f4376")
+		)
+		(fp_poly
+			(pts
+				(xy -3.21 4.235) (xy -3.19 4.235) (xy -3.19 3.105) (xy -3.21 3.105)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Mask")
+			(uuid "fe0d8286-1f2f-4b22-982f-78fda30b0768")
+		)
 		(fp_line
 			(start 4.580001 -0.07)
 			(end 4.580001 1.85)
@@ -10844,6 +10892,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
+			(solder_mask_margin -0.01)
 			(uuid "0a0d5a00-457b-4807-876a-ba856121b5b7")
 		)
 		(pad "A4" smd rect
@@ -10853,6 +10902,7 @@
 			(net 32 "/PSU 2xAA USB 3v3/USB_BUS_POWER")
 			(pinfunction "VBUS")
 			(pintype "passive")
+			(solder_mask_margin -0.01)
 			(uuid "aa428a90-958f-485a-8762-0ec5e80448e2")
 		)
 		(pad "A5" smd rect
@@ -10862,6 +10912,7 @@
 			(net 4 "Net-(J3-CC1)")
 			(pinfunction "CC1")
 			(pintype "bidirectional")
+			(solder_mask_margin -0.01)
 			(uuid "16d89bd3-746b-4a9f-946e-462ebe4370af")
 		)
 		(pad "A6" smd rect
@@ -10871,6 +10922,7 @@
 			(net 8 "/esp31-c3-mini/USB_D+")
 			(pinfunction "D+")
 			(pintype "bidirectional")
+			(solder_mask_margin -0.01)
 			(uuid "6fbf528f-15dc-4570-a198-a01b2e9ddca6")
 		)
 		(pad "A7" smd rect
@@ -10880,6 +10932,7 @@
 			(net 7 "/esp31-c3-mini/USB_D-")
 			(pinfunction "D-")
 			(pintype "bidirectional")
+			(solder_mask_margin -0.01)
 			(uuid "f11e51f7-a7a0-446c-a83b-c2a7503ae767")
 		)
 		(pad "A8" smd rect
@@ -10889,6 +10942,7 @@
 			(net 51 "/SAO_GPIO2")
 			(pinfunction "SBU1")
 			(pintype "bidirectional")
+			(solder_mask_margin -0.01)
 			(uuid "5272aa6a-6b58-4009-920d-f92bb6b99468")
 		)
 		(pad "A9" smd rect
@@ -10898,6 +10952,7 @@
 			(net 32 "/PSU 2xAA USB 3v3/USB_BUS_POWER")
 			(pinfunction "VBUS")
 			(pintype "passive")
+			(solder_mask_margin -0.01)
 			(uuid "22f92eaa-c964-493d-9c6f-8ea4cef07207")
 		)
 		(pad "A12" smd rect
@@ -10907,6 +10962,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
+			(solder_mask_margin -0.01)
 			(uuid "de6884b7-b3c6-4796-8310-a8efaf68a227")
 		)
 		(pad "B1" smd rect
@@ -10916,6 +10972,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
+			(solder_mask_margin -0.01)
 			(uuid "69678ba4-24a7-478d-9d3c-d9ecd81e7b83")
 		)
 		(pad "B4" smd rect
@@ -10925,6 +10982,7 @@
 			(net 32 "/PSU 2xAA USB 3v3/USB_BUS_POWER")
 			(pinfunction "VBUS")
 			(pintype "passive")
+			(solder_mask_margin -0.01)
 			(uuid "e6bbc50f-96c4-4b1d-9d27-0c2878c33173")
 		)
 		(pad "B5" smd rect
@@ -10934,6 +10992,7 @@
 			(net 6 "Net-(J3-CC2)")
 			(pinfunction "CC2")
 			(pintype "bidirectional")
+			(solder_mask_margin -0.01)
 			(uuid "4941a8e9-8ad4-42e0-8bc8-258aac201851")
 		)
 		(pad "B6" smd rect
@@ -10943,6 +11002,7 @@
 			(net 8 "/esp31-c3-mini/USB_D+")
 			(pinfunction "D+")
 			(pintype "bidirectional")
+			(solder_mask_margin -0.01)
 			(uuid "7dd6d9cc-a1bb-4583-9696-3126bcb9afa4")
 		)
 		(pad "B7" smd rect
@@ -10952,6 +11012,7 @@
 			(net 7 "/esp31-c3-mini/USB_D-")
 			(pinfunction "D-")
 			(pintype "bidirectional")
+			(solder_mask_margin -0.01)
 			(uuid "6931fda6-8d05-4659-b530-7e97344fc2be")
 		)
 		(pad "B8" smd rect
@@ -10961,6 +11022,7 @@
 			(net 50 "/SAO_GPIO1")
 			(pinfunction "SBU2")
 			(pintype "bidirectional")
+			(solder_mask_margin -0.01)
 			(uuid "2047bdf5-9df4-4cf0-a847-0cdd92b51117")
 		)
 		(pad "B9" smd rect
@@ -10970,6 +11032,7 @@
 			(net 32 "/PSU 2xAA USB 3v3/USB_BUS_POWER")
 			(pinfunction "VBUS")
 			(pintype "passive")
+			(solder_mask_margin -0.01)
 			(uuid "2cafa23f-6716-4a3d-93a1-8baac48b2814")
 		)
 		(pad "B12" smd rect
@@ -10979,6 +11042,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
+			(solder_mask_margin -0.01)
 			(uuid "333d8f2c-be6a-41fb-947e-bfb2719824c3")
 		)
 		(pad "S1" thru_hole oval
@@ -11003,7 +11067,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "4a800165-3a4c-4403-b8cf-c8eb1c67af7d")
+			(uuid "adc6f6d3-31c3-437e-a6cd-38c8a09295e5")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -1.075 180)
@@ -11015,7 +11079,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "62cea8ff-8bf1-450f-947e-c483db387a42")
+			(uuid "adc6f6d3-31c3-437e-a6cd-38c8a09295e5")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 3.105 180)
@@ -11027,7 +11091,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "be025fa4-27db-4a6f-814e-02b970a3c3f8")
+			(uuid "adc6f6d3-31c3-437e-a6cd-38c8a09295e5")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_XKB_U262-16XN-4BVC11.wrl"
