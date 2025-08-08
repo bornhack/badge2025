@@ -19,6 +19,7 @@ In addition to the LoRa module, there are 5 RGB LEDs on the side, a qwiic/Stemma
 Feel free to submit a PR adding on to this list with your project that runs on the badge.
 
 - [Initial Meshtastic firmware](https://github.com/badgeteam/bornhack2025-meshtastic) ([Flasher tool](https://github.com/badgeteam/bornhack2025-flasher))
+- [Zephyr device tree](https://cyberchaos.dev/kloenk/bornhack-2025-badge) (no actually firmware, just support files)
 - _project name and link to more info_
 
 
