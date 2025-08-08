@@ -14,6 +14,15 @@ If you want to use Meshtastic for a longer period, it's recommended to power the
 
 In addition to the LoRa module, there are 5 RGB LEDs on the side, a qwiic/StemmaQT connector and a footprint for a SAO v1.69bis connector for expansions, mostly for alternative firmwares.
 
+## 3D Printable case
+
+In the ```case``` folder is a desing, done in OpenSCAD, for a half or back case, that snaps on to the PCB and covers the back part with the battery holders, antenna and LEDs.
+
+There are two versions, one fully closed, and one with a cutout for mounting it on a wall using a screw.
+
+Both should print on most FDM printers without the need for support, with the back side facing down on the build plate.
+
+
 ## Projects running on the badge
 
 Feel free to submit a PR adding on to this list with your project that runs on the badge.
