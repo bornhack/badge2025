@@ -28,6 +28,7 @@ Both should print on most FDM printers without the need for support, with the ba
 Feel free to submit a PR adding on to this list with your project that runs on the badge.
 
 - [Initial Meshtastic firmware](https://github.com/badgeteam/bornhack2025-meshtastic) ([Flasher tool](https://github.com/badgeteam/bornhack2025-flasher))
+- [Zephyr device tree](https://cyberchaos.dev/kloenk/bornhack-2025-badge) (no actually firmware, just support files)
 - _project name and link to more info_
 
 
